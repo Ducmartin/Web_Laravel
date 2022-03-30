@@ -1,0 +1,50 @@
+#login{
+  background-color: #dbdbdb ;
+  min-height: 600px;
+  position: relative;
+}
+#login .form-login{
+    width: 40%;
+    background-color:  rgb(238, 77, 45);
+    position: absolute;
+    left: 30%;
+    top: 17.5%;
+    /* height: 65%; */
+}
+#login .form-login .line{
+    border: 1px solid #363333;
+    margin: 2% 5%;
+}
+#login .title{
+    margin: 5%;
+    font-size: 40px;
+    text-align: center;
+}
+
+#login .form-login label{
+    margin: 15px;
+    font-size: 20px;
+    display: block;
+    text-align: center;
+}
+#login .form-login input{
+    border: 1px solid #dbdbdb;
+    margin: 10px 5%;
+    width: 90%;
+    display: block;
+    text-align: center;
+    padding: 5px;
+}
+#login .form-login #submit{
+    margin-top: 25px;
+    font-size: 20px;
+    border: 1px solid rgb(136, 33, 14);
+}
+.light{
+    color: white;
+}
+small a{
+    display: block;
+    text-align: center;
+}
+

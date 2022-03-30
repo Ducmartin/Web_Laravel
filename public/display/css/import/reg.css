@@ -1,0 +1,49 @@
+#reg{
+    background-color: #dbdbdb ;
+    min-height: 600px;
+    position: relative;
+  }
+  #reg .form-reg{
+      width: 40%;
+      background-color:  rgb(238, 77, 45);
+      position: absolute;
+      left: 30%;
+      top: 10px;
+  }
+  #reg .form-reg .line{
+      border: 1px solid #363333;
+      margin: 2% 5%;
+  }
+  #reg .title{
+      margin: 2%;
+      font-size: 40px;
+      text-align: center;
+  }
+  
+  #reg .form-reg label{
+      /* margin: 15px; */
+      font-size: 20px;
+      display: block;
+      text-align: center;
+  }
+  #reg .form-reg input{
+      border: 1px solid #dbdbdb;
+      margin: 10px 5%;
+      width: 90%;
+      display: block;
+      text-align: center;
+      padding: 5px;
+  }
+  #reg .form-reg #submit{
+      margin-top: 15px;
+      font-size: 20px;
+      border: 1px solid rgb(136, 33, 14);
+  }
+  .light{
+      color: white;
+  }
+  small a{
+      display: block;
+      text-align: center;
+}
+  
